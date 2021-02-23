@@ -280,4 +280,4 @@ Paste:
 - 6. Create Account & Click Agree TOS
 _____________________________________________________
 
-**Rezizt made some of these. If they don't work then idk how to fix them**
+# Ecys#1254
