@@ -1,6 +1,6 @@
 
 ## My tag Is `Ecys#1254`
-### Discord Programs, Fun stuff, 11M email and pas combos, PDF cracker, Onlyfans Leaks, PAYPAL Hack, WiFi Hack tutorial, NordVPN accounts, Free social Media Likes, Among us hack, Unlimited Gmail accounts, Google Free Storage, @EDU emails, etc..
+### Discord Programs, Fun stuff, 11M email and pas combos, PDF cracker, Onlyfans Leaks, PAYPAL Hack, WiFi Hack tutorial, NordVPN accounts, Free social Media Likes, Among us hack, Unlimited Gmail accounts, Google Free Storage, @EDU emails, ALL ADOBE TOOLS PREMIUM FREE etc..
 ```
 ─██████████████─██████████████─████████──████████─██████████████─████████───██████████████─██████████████─██████████████─
 ─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░██──██░░░░██─██░░░░░░░░░░██─██░░░░██───██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─
@@ -279,5 +279,9 @@ Paste:
 - 4. Ignore Number/Recovery Email
 - 6. Create Account & Click Agree TOS
 _____________________________________________________
+
+## ALL ADOBE PREMIUM TOOLS
+
+Link: https://docs.google.com/document/d/1mMbiUPh9maBjWKf-dMH6Yio6YQfHQkjIbwpZMHAxszU/edit?usp=sharing
 
 # Ecys#1254
