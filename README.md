@@ -1,19 +1,6 @@
 
-## My tag Is `Ecys#1867`
+
 ### Discord Programs, Fun stuff, 11M email and pas combos, PDF cracker, Onlyfans Leaks, PAYPAL Hack, WiFi Hack tutorial, NordVPN accounts, Free social Media Likes, Among us hack, Unlimited Gmail accounts, Google Free Storage, @EDU emails, ALL ADOBE TOOLS PREMIUM FREE etc..
-```
-─██████████████─██████████████─████████──████████─██████████████─████████───██████████████─██████████████─██████████████─
-─██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░██──██░░░░██─██░░░░░░░░░░██─██░░░░██───██░░░░░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─
-─██░░██████████─██░░██████████─████░░██──██░░████─██░░██████████─████░░██───██████████░░██─██████████░░██─██████████░░██─
-─██░░██─────────██░░██───────────██░░░░██░░░░██───██░░██───────────██░░██───────────██░░██─────────██░░██─────────██░░██─
-─██░░██████████─██░░██───────────████░░░░░░████───██░░██████████───██░░██───██████████░░██─██████████░░██─────────██░░██─
-─██░░░░░░░░░░██─██░░██─────────────████░░████─────██░░░░░░░░░░██───██░░██───██░░░░░░░░░░██─██░░░░░░░░░░██─────────██░░██─
-─██░░██████████─██░░██───────────────██░░██───────██████████░░██───██░░██───██████████░░██─██████████░░██─────────██░░██─
-─██░░██─────────██░░██───────────────██░░██───────────────██░░██───██░░██───────────██░░██─────────██░░██─────────██░░██─
-─██░░██████████─██░░██████████───────██░░██───────██████████░░██─████░░████─██████████░░██─██████████░░██─────────██░░██─
-─██░░░░░░░░░░██─██░░░░░░░░░░██───────██░░██───────██░░░░░░░░░░██─██░░░░░░██─██░░░░░░░░░░██─██░░░░░░░░░░██─────────██░░██─
-─██████████████─██████████████───────██████───────██████████████─██████████─██████████████─██████████████─────────██████─
-```
 
 ## Discord Programs
 
@@ -25,7 +12,7 @@
 
 - Console hacks :: https://hastebin.com/uwuniwibev.rb
 
-- Slowest nitro sniper :: https://cdn.discordapp.com/attachments/785327015611858954/785328530271371264/Sniper_1.rar Faster one is Execard
+- Slowest nitro sniper :: https://cdn.discordapp.com/attachments/785327015611858954/785328530271371264/Sniper_1.rar NitroSniperGo by Vedza is the fastest Nitrosniper as it's made in golang which is much faster than python, but it gets you disabled quite easily :/
 
 - Rich presence for chrome :: https://cdn.discordapp.com/attachments/785327015611858954/785329529497321502/Chrome-RPC-master.zip
 
@@ -287,14 +274,6 @@ Link :: https://docs.google.com/document/d/1mMbiUPh9maBjWKf-dMH6Yio6YQfHQkjIbwpZ
 ## LARGE ACCOUNT BREACH LEAK
 
 Link :: https://cdn.discordapp.com/attachments/809057967948300329/819010494617616394/large.txt
-
-
-## Ignacioh Dox
-
-Link :: ~~https://doxbin.org/upload/IgnaciohDox~~
-
-Dox got taken down. backup link: There is no backup link. have this for now :: I don't have anything but name is Ignacioh.
-
 
 
 ### Telegram :: @Eccys
