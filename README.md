@@ -291,6 +291,10 @@ Link :: https://cdn.discordapp.com/attachments/809057967948300329/81901049461761
 
 ## Ignacioh Dox
 
-Link :: https://doxbin.org/upload/IgnaciohDox
+Link :: ~~https://doxbin.org/upload/IgnaciohDox~~
 
-# Ecys#1867
+Dox got taken down. backup link: There is no backup link. have this for now :: I don't have anything but name is Ignacioh.
+
+
+
+# I don't discord anymroe Telegram :: @Eccys
