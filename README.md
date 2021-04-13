@@ -119,6 +119,7 @@ Paste:
 
 - Twitch bot :: https://cdn.discordapp.com/attachments/707802647100391454/709519110375080006/Twitch.BOT.rar
 
+
 ## Fun Things.txt
 - http proxies :: https://cdn.discordapp.com/attachments/785327015611858954/785329934511374336/http_proxies.txt
 
@@ -140,7 +141,7 @@ Paste:
 
 - **11M EMAIL PASS COMBOS** :: https://anonfiles.com/j2ubf1d1oc/11M_EMAIL-PASS_Combo_txt
 
-## Free Stuff:
+## Other:
 
 - https://autotokker.com/ - 3 day trial (Helped me get fucking crap ton of likes)
 
@@ -184,6 +185,7 @@ Paste:
 
 - https://klastakipci.com/ - free instagram likes
 
+
 ## Nitro methods
 
 - https://cdn.discordapp.com/attachments/653519497717874688/712858047432753182/Farm-Nitro.txt
@@ -192,6 +194,13 @@ Paste:
 
 - https://throwbin.io/tsb3C3T
 
+## Bonus
+
+- Sound booster crack up to 500% :: https://download1322.mediafire.com/6t3izcbma2rg/rg8h2g3vgoebg97/Sound+booster.zip
+
+- Internet download manager crack :: https://download1506.mediafire.com/8d29j77om42g/tw1i0utumfwdjlu/Internet+download+manager.zip
+
+- CCleaner Proffesional Lifetime contact @Eccys on telegram if you need help :: https://www.mediafire.com/file/h5qagra3yx8mxqm/CCleaner.zip/file 
 
 ## Onlyfans Leaks
 
@@ -248,7 +257,7 @@ Paste:
 - https://clipwatching.com/rr0oqzi1ldi1/th...s.mp4.html
 
 
-## Google storage hack
+## Google storage hack -- Obsolete
 
 - 1. go to https://td.fastio.me/
 - 2. Write a random storage name
@@ -265,7 +274,64 @@ Paste:
 - 1. Type Required Info
 - 4. Ignore Number/Recovery Email
 - 6. Create Account & Click Agree TOS
-_____________________________________________________
+
+## Free RDP method
+
+1. Go To Any TempMail Services Such: https://smailpro.com/ 
+2. Grab Fake Email & Go To http://ericom.com/ 
+3. Enter Fake - Random Details & Enter The Temp Email
+4. Now Click On Virtual Desktop & Complete Captcha
+5. Done! You Got Your Free RDP.
+
+## Spotify premium bruteforce method -- Obsolete
+
+Go to https://www.spotify.com/us/redeem/
+Sign in.
+Press ctrl+shift+j (to open console).
+Paste the following code in and click enter.
+Follow the prompts and begin generating+checking!
+Code:
+var speed = prompt("Speed of checker/gen (Recommended 500 for fast pcs, 1000 for slow)")
+var zip = prompt("Zipcode (leave blank for default)") + "10008"
+function generateCode() {
+ var code = "";
+ var chars = "0123456789";
+ for (var i = 0; i < 19; i++)
+   code += chars.charAt(Math.floor(Math.random() * chars.length));
+ return code;
+}
+function main() {  
+   document.getElementById("redeem_code_token").value = generateCode();
+   document.getElementById("redeem_code_zip-code").value = zip;
+   document.getElementById("redeem_code_submit").click();
+}
+
+setInterval(function() {
+   main();
+}, speed);
+
+NOTE: If there is no "zip code" section, please use the code below.
+
+Code:
+var speed = prompt("Speed of checker/gen (Recommended 500 for fast pcs, 1000 for slow)")
+function generateCode() {
+ var code = "";
+ var chars = "0123456789";
+ for (var i = 0; i < 19; i++)
+   code += chars.charAt(Math.floor(Math.random() * chars.length));
+ return code;
+}
+function main() {  
+   document.getElementById("redeem_code_token").value = generateCode();
+   document.getElementById("redeem_code_submit").click();
+}
+
+setInterval(function() {
+   main();
+}, speed);
+
+If you see recaptcha try changing your vpn/etc
+
 
 ## ALL ADOBE PREMIUM TOOLS
 
